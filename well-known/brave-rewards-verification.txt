@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eagf.info
+Token: 5de64c35a280714b9e8898537080ee847f61f666a747645c71e318542809adaf
